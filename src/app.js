@@ -1,0 +1,1 @@
+const shafa = "shafa naura";
