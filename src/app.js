@@ -1,3 +1,4 @@
+const yosef = 'yosef situmorang'; 
 const zaqi = 'Muhammad zaqi al quraisyi';
 const rizki = "Rizki Ramadhan";
 const indra = 'Indra Budiman';
