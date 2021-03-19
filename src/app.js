@@ -1,0 +1,1 @@
+const rizki = "Rizki Ramadhan";
