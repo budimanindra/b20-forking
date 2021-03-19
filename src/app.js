@@ -1,1 +1,3 @@
 const mathius = 'Mathius Kormasela';
+const abbi = "Abbi Satria";
+const shafa = "shafa naura";
