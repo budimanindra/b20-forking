@@ -1,0 +1,15 @@
+kolaborasi dengan Pull Request repo
+
+1. fork repo "orang_lain"
+2. setelah fork, akan dibuatkan repo yang sama di "github_kita", dan clone repo project yang ada di "github_kita"
+di local / folder laptop (git clone "url_project_di_github_kita"
+3. lakukan (git remote add "beri_nama_bebas" "url_yang_akan_di_remote"), url yang akan diremote = url orang_lain keduanya tanpa petik
+4. masuk ke folder yang sudah di repo
+5. untuk menambah fitur orang, dapat dilakukan dengan membuat branch baru (git checkout -b "nama_branch_baru_bebas") tanpa petik juga
+6. masuk ke code editor dan membuat file
+7. melakukan commit ke branch yang sedang dibuka
+8. push ke branch yang sedang dibuka (git push --set-upstream origin "nama_branch") / (git push origin "nama_branch") / bisa juga dengan push langsung vscode
+9. ajukan Pull Request ke repo "orang_lain"
+10. setelah diterima oleh orang lain, lanjut dengan pull file terbaru (git pull beri_nama_bebas master)
+
+11. jika ingin menambah fitur, ulang langkah ke 5
